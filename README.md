@@ -1,4 +1,4 @@
-# L-image-sans-nom
+# L'image Sans Nom
 
 ## En quoi consiste le projet ?
 
